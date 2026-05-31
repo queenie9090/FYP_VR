@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuSpeakUp!.unity
+    guid: 0847d4aab5d9fbb438872d4045137405
+  - enabled: 1
+    path: Assets/Scenes/HallwayScene.unity
+    guid: b0bcd4e8d416f9a438e671fe34edcc30
+  - enabled: 1
+    path: Assets/Scenes/Classroom.unity
+    guid: f944bf666e35ad6419d1f8a88784add3
+  - enabled: 1
+    path: Assets/Scenes/MultiagentKopitiam.unity
+    guid: d5ab3bcf77c84ec47a18692441dfc359
+  - enabled: 1
+    path: Assets/Scenes/StageVenue.unity
+    guid: 1f79b4100b0bc814490abbcfaa788b65
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b35e2de9c4e5afd479334387a758a76e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b755a3400d6c88c4d861ceee30d05042, type: 2}
+  m_UseUCBPForAssetBundles: 0

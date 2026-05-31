@@ -1,0 +1,10 @@
+# ninja log v5
+47	2580	7755709094480974	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	de66bf299b04088c
+37	2660	7755709094718000	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	21db597ed732427d
+0	2664	7755709095070270	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c145d20269fb6548
+62	2735	7755709095608119	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b802cf121f6d3497
+17	2823	7755709097044384	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d0b21df137e00303
+77	2910	7755709097917472	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3e59498476ab6c53
+27	3173	7755709100648026	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ef50bb9983af71d3
+9	3334	7755709102187570	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	60a047a895094266
+3335	3513	7755709104097259	C:/Users/Eddie/Documents/OWK FYP Speak Up!/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5q6a3243/obj/arm64-v8a/libgame.so	c37c8d906a9d39c6

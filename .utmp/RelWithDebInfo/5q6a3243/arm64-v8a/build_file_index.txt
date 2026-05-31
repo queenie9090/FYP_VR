@@ -1,0 +1,2 @@
+C:\Users\Eddie\Documents\OWK FYP Speak Up!\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Eddie\Documents\OWK FYP Speak Up!\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
