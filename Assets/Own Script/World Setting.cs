@@ -9,8 +9,6 @@ public class WorldSetting : MonoBehaviour
     {
         return $"Game Story: {gameStory}\n" +
                $"Game World: {gameWorld}\n";
-        // testing 123
-        // testing hello world
     }
 }
 
